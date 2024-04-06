@@ -4,27 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360d8585-d1d7-47e7-81ac-2e7ddbefc38f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Face.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Normal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Polyhedron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Test3DApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Test3DController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/test3d/test-3d-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled2.obj" afterDir="false" />
+    <list default="true" id="360d8585-d1d7-47e7-81ac-2e7ddbefc38f" name="Changes" comment="Basic polyhedron class written?">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/TwoDPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/Normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Normal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/Polyhedron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Polyhedron.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +75,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712363529205</updated>
-      <workItem from="1712363530302" duration="4868000" />
+      <workItem from="1712363530302" duration="13359000" />
     </task>
+    <task id="LOCAL-00001" summary="Basic polyhedron class written?">
+      <option name="closed" value="true" />
+      <created>1712376644263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712376644263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Basic polyhedron class written?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic polyhedron class written?" />
   </component>
 </project>

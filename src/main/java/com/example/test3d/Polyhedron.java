@@ -6,11 +6,14 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Polyhedron {
-    public ArrayList<Vertex> vertices = new ArrayList<Vertex>();
-    public ArrayList<Normal> normals = new ArrayList<Normal>();
-    public ArrayList<Face> faces = new ArrayList<Face>();
+    public ArrayList<Vertex> vertices;
+    public ArrayList<Normal> normals;
+    public ArrayList<Face> faces;
 
     public Polyhedron(String objFileLoc){
+        vertices = new ArrayList<Vertex>();
+        normals = new ArrayList<Normal>();
+        faces = new ArrayList<Face>();
         try {
             Scanner scanner = new Scanner(new File(objFileLoc));
             while (scanner.hasNext()){
