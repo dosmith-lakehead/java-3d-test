@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360d8585-d1d7-47e7-81ac-2e7ddbefc38f" name="Changes" comment="Basic polyhedron class written?">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Scene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/TwoDPoint.java" afterDir="false" />
+    <list default="true" id="360d8585-d1d7-47e7-81ac-2e7ddbefc38f" name="Changes" comment="Trying to do vector math">
+      <change afterPath="$PROJECT_DIR$/objects/untitled2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/Normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Normal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/Polyhedron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Polyhedron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Scene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/Test3DController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/Test3DController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test3d/TwoDPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test3d/TwoDPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2.obj" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712363529205</updated>
-      <workItem from="1712363530302" duration="13359000" />
+      <workItem from="1712363530302" duration="25232000" />
     </task>
     <task id="LOCAL-00001" summary="Basic polyhedron class written?">
       <option name="closed" value="true" />
@@ -85,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712376644263</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Trying to do vector math">
+      <option name="closed" value="true" />
+      <created>1712435522008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712435522008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Basic polyhedron class written?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic polyhedron class written?" />
+    <MESSAGE value="Trying to do vector math" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to do vector math" />
   </component>
 </project>
